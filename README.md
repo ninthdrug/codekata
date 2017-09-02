@@ -1,0 +1,2 @@
+# codekata
+Simple coding exercises.
